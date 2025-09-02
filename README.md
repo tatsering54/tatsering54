@@ -10,13 +10,15 @@ problems.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
 
-
+<div>
+#Skils
 • OS : Kali Linux ,Rocky Linux, Mac OS, Windows 11, Ubuntu
 • Programming Languages: Python, Bash scripting, swift, Javascript,
 • Security Knowledge: OWASP Top 10, Network Security, Vulnerability Assessment, Aircrack-ng
 • Other Tools & Software: Power BI, UiPath, Tableau, SAP, MS CRM, Excel, Outlook
+</div>
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -27,6 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
 
+<div>
 ## Tools
 Penetration Testing Tools: 
 Metasploit - https://github.com/rapid7/metasploit-framework 
@@ -34,7 +37,7 @@ Nmap - https://github.com/nmap/nmap
 Burp Suite - https://github.com/xiv3r/Burpsuite-Professional
 Active Directory -
 Nessus - https://github.com/cyber01/Nessus
-
+</div>
 
 ### Network
 <div>
