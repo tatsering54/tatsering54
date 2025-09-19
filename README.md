@@ -18,16 +18,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Basic Exploitation                            | <a href="https://drive.google.com/file/d/15oOnHlWBPEZqpnKYqqxkf8tEqi2RmKIl/view?usp=sharing">Files</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">Detection Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">Detection Lab</a>|
-| Kali linux for Home lab                       | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Detection Lab</a>|
-
+| Basic Exploitation                            | <a href="https://drive.google.com/file/d/15oOnHlWBPEZqpnKYqqxkf8tEqi2RmKIl/view?usp=sharing">Document</a>|
+| Kali linux Personal lab setups :              | <a href="https://drive.google.com/file/d/1NVnphCwOeicuOZu6ZTPV-PN5cMZGauqm/view?usp=sharing">Decument</a>|
+| Incident Response Planning and Execution      |                                          |
+| - Nmap (Port scanning)                        |                                          |
+| - Directory enumeration                       |                                          |
+| - Sql Injection                               |                                          |
+| - Password/Hash                               |                                          |
+| - Privilege escalation detection              |                                          |
+| - Process monitoring utilities                |                                          |
+|                                               |                                          |
+|                                               |                                          |
+|                                               |                                          |
+|                                               |                                          |
 
 
 
